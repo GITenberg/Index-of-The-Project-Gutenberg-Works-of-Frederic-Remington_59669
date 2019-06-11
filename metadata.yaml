@@ -1,5 +1,8 @@
 _repo: Index-of-The-Project-Gutenberg-Works-of-Frederic-Remington_59669
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59669-h/images/cover.jpg
 creator:
   author:
     agent_name: Remington, Frederic
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59669#Index-of-The-Project-Gutenberg-Works-of-Frederic-Remington
 gutenberg_issued: '2019-06-03'
 gutenberg_type: Text
 identifiers:
